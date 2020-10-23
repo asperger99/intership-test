@@ -2,6 +2,10 @@
 
 i've written my code in python using pandas library.
 
+source code is in "main.py" file .
+
+Output files are inside "output" folder.
+
 -----------------------------HOW TO RUN------------------------------------
 
     ---python should be installed on computer---- 
