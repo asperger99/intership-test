@@ -1,7 +1,9 @@
 ----------------------------CODE DETAILS----------------------------------
+
 i've written my code in python using pandas library.
 
 -----------------------------HOW TO RUN------------------------------------
+
     ---python should be installed on computer---- 
     
 1.download main.py file from the output folder of this repo.
